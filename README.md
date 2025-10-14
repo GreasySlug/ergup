@@ -16,7 +16,7 @@ Python 3 (>=3.7)
 
 ```sh
 # If the Python command is registered as `python` in your environment, replace the `python3` part.
-python3 <(curl -L https://github.com/mtshiba/ergup/raw/main/ergup/ergup.py)
+python3 <(curl -L https://raw.githubusercontent.com/mtshiba/ergup/refs/heads/main/ergup/ergup.py)
 # and please set environment variables
 ```
 
@@ -30,7 +30,7 @@ ergup
 ### Installing nightly version
 
 ```sh
-python3 <(curl -L https://github.com/mtshiba/ergup/raw/main/ergup/ergup.py) - nightly
+python3 <(curl -L https://raw.githubusercontent.com/mtshiba/ergup/refs/heads/main/ergup/ergup.py) - nightly
 ```
 
 ### Note
